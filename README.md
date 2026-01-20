@@ -1,3 +1,20 @@
+
+## 📸 App Screenshots
+
+### 🏠 Home Page
+![Home page showing welcome screen and navigation](docs/images/home.png)
+
+### 📊 Dashboard Overview
+![Dashboard showing total tasks, upcoming deadlines, completed and overdue tasks](docs/images/dashboard.png)
+
+### 📚 Courses Management
+![Courses page displaying course cards with task statistics and course details](docs/images/courses.png)
+
+### ➕ Add New Deadline
+![Modal form for adding a new deadline with task title, course, due date, priority, and description](docs/images/add-deadline.png)
+
+> Screenshots are optimized for performance and include descriptive alt text for accessibility.
+
 # 📚 Academic Planner & Deadline Tracker
 
 > A comprehensive web application to help students manage their academic deadlines, track assignments, and never miss important dates again!
